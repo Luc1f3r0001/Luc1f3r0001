@@ -1,7 +1,3 @@
-# Hey welcome to my git page
+# Yoooo
 
-Myself Luc1f3r trying to become a Legend in Web Exploitation. But so far I am a noob in it. 
-
-I will upload my writeups about the CTFs I have played and the things I learn
-
-Hope You enjoy and find my writeups informational!!!
+Myself Adithya Raj. I am a Web Security enthusiast From India. I am also part of the No 1 CTF team in India [Team Bi0s](https://ctftime.org/team/662). I will put the CTF's I have played and the writeups included. 
